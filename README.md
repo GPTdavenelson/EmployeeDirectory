@@ -1,6 +1,6 @@
 # Unit 19 React Homework: Employee Directory
 
-![gif](https://github.com/GPTdavenelson/EmployeeDirectory/readme.gif)
+![gif](https://raw.githubusercontent.com/GPTdavenelson/EmployeeDirectory/master/readme.gif)
 
 [Live Demo on Heroku](https://dev-employee-directory.herokuapp.com/)
 
